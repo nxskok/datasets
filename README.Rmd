@@ -1,0 +1,50 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# datasets
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of datasets is to provide a home for data sets for my courses, from various textbooks. I favour text files, but I grab what I can.
+
+## example
+
+Load Tidyverse first:
+
+```{r}
+library(tidyverse)
+```
+
+
+The data set `deprived` from Utts and Heckard is from a survey of students from a statistics class. Each student was asked whether they generally felt sleep-deprived or not, and also how many hours they usually slept per night:
+
+```{r}
+load("utts-heckard/deprived.rdata")
+deprived
+```
+
+One would imagine that sleep-deprived people got less sleep:
+
+```{r}
+ggplot(deprived, aes(x=d, y=s)) + geom_boxplot()
+```
+
+There are outliers in both groups, but the answer appears to be yes. Is that significant?
+
+```{r}
+t.test(s~d, data=deprived, alternative="greater")
+```
+
+Yes, although it might be good to be concerned about the outliers.
+
