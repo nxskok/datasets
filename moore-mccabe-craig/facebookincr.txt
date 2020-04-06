@@ -1,0 +1,20 @@
+Country	Percent
+United Kingdom	31
+Canada	9
+Turkey	23
+Australia	43
+Colombia	246
+Chile	2197
+France	92
+Norway	7
+Sweden	4
+Mexico	69
+Venezuela	683
+South Africa	33
+Egypt	31
+Denmark	92
+Spain	132
+India	42
+Germany	44
+Israel	42
+Italy	139

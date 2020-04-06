@@ -1,0 +1,7 @@
+Dress	Reader	Count
+NotSexual	Women	351
+NotSexual	Men	514
+NotSexual	General	248
+Sexual	Women	225
+Sexual	Men	105
+Sexual	General	66

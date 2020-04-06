@@ -20,30 +20,32 @@ The goal of datasets is to provide a home for data sets for my courses, from var
 
 ## example
 
-Load Tidyverse first:
+Load Tidyverse first, and `gdata` to read in old Excel spreadsheets (`read_excel` doesn't appear to do it):
 
 ```{r}
 library(tidyverse)
+library(gdata)
 ```
 
 
 The data set `deprived` from Utts and Heckard is from a survey of students from a statistics class. Each student was asked whether they generally felt sleep-deprived or not, and also how many hours they usually slept per night:
 
 ```{r}
-load("utts-heckard/deprived.rdata")
-deprived
+my_url <- "utts-heckard/deprived.XLS"
+deprived <- read.xls(my_url)
+deprived %>% as_tibble()
 ```
 
 One would imagine that sleep-deprived people got less sleep:
 
 ```{r}
-ggplot(deprived, aes(x=d, y=s)) + geom_boxplot()
+ggplot(deprived, aes(x=Deprived, y=SleepHrs)) + geom_boxplot()
 ```
 
 There are outliers in both groups, but the answer appears to be yes. Is that significant?
 
 ```{r}
-t.test(s~d, data=deprived, alternative="greater")
+t.test(SleepHrs~Deprived, data=deprived, alternative="greater")
 ```
 
 Yes, although it might be good to be concerned about the outliers.

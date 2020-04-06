@@ -1,0 +1,11 @@
+Provider	Subscribers
+AT&T	14.8
+Comcast	14.7
+RoadRunner	8.6
+Verizon	8.5
+AmericaOnline	7.5
+EarthLink	3.0
+Charter	2.9
+Qwest	2.8
+Cablevision	2.4
+UnitedOnline	1.5

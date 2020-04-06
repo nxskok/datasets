@@ -1,0 +1,25 @@
+Country	Debt2006	Debt2007
+Luxembourg	0.65	0.78
+Iceland	4.04	4.92
+Slovak Republic	18.44	22.79
+New Zealand	21.44	27.82
+Norway	43.03	49.05
+Czech Republic	38.44	49.36
+Australia	43.91	49.45
+Ireland	47.30	55.29
+Finland	77.58	82.54
+Hungary	76.76	90.24
+Denmark	94.29	92.74
+Switzerland	101.28	107.49
+Portugal	142.97	166.06
+Sweden	185.01	182.11
+Poland	164.41	205.97
+Mexico	195.66	216.76
+Austria	204.51	231.56
+Turkey	244.89	286.96
+Korea	295.07	309.34
+Netherlands	278.67	316.07
+Greece	297.93	352.80
+Canada	347.68	389.83
+Belgium	366.91	420.74
+Spain	427.06	464.99

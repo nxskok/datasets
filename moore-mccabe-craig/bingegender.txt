@@ -1,0 +1,5 @@
+Gender	Frequent	Count
+Men	Yes	1630
+Women	Yes	1684
+Men	No	5550
+Women	No	8232

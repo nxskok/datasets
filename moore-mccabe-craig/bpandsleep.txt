@@ -1,0 +1,11 @@
+Pressure	Group	GroupNum
+110	Low	1
+118	Low	1
+128	Low	1
+126	Low	1
+119	Low	1
+113	High	2
+120	High	2
+102	High	2
+108	High	2
+114	High	2

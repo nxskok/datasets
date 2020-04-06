@@ -1,0 +1,34 @@
+University	Year 2000	Year 2008
+Penn State	7018	13706
+Pittsburgh	7002	13642
+Michigan	6926	11738
+Rutgers	6333	11540
+Michigan State	5432	10690
+Maryland	5136	8005
+Illinois	4994	12106
+Minnesota	4877	10634
+Missouri	4726	7386
+Buffalo	4715	6385
+Indiana	4405	8231
+Ohio State	4383	8679
+Virginia	4335	9300
+Cal-Davis	4072	9497
+Cal-Berkeley	4047	7656
+Cal-Irvine	3970	8046
+Purdue	3872	7750
+Cal-San Diego	3848	8062
+Oregon	3819	6435
+Wisconsin	3791	7569
+Washington	3761	6802
+UCLA	3698	8310
+Texas	3575	8532
+Nebraska	3450	6584
+Iowa	3204	6544
+Colorado	3188	7278
+Iowa State	3132	5524
+North Carolina	2768	5397
+Kansas	2725	7042
+Arizona	2348	5542
+Florida	2256	3256
+Georgia Tech	3308	6040
+Texas A&M	3374	7844

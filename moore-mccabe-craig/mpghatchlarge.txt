@@ -1,0 +1,71 @@
+MPG	Car_Class	GroupNum
+30	Hatchback	1
+29	Hatchback	1
+28	Hatchback	1
+27	Hatchback	1
+27	Hatchback	1
+27	Hatchback	1
+27	Hatchback	1
+27	Hatchback	1
+26	Hatchback	1
+25	Hatchback	1
+25	Hatchback	1
+25	Hatchback	1
+24	Hatchback	1
+24	Hatchback	1
+24	Hatchback	1
+24	Hatchback	1
+24	Hatchback	1
+23	Hatchback	1
+23	Hatchback	1
+22	Hatchback	1
+22	Hatchback	1
+21	Hatchback	1
+21	Hatchback	1
+21	Hatchback	1
+21	Hatchback	1
+21	Hatchback	1
+21	Hatchback	1
+21	Hatchback	1
+20	Hatchback	1
+20	Hatchback	1
+20	Hatchback	1
+20	Hatchback	1
+20	Hatchback	1
+20	Hatchback	1
+20	Hatchback	1
+20	Hatchback	1
+19	Hatchback	1
+19	Hatchback	1
+19	Hatchback	1
+18	Hatchback	1
+16	Hatchback	1
+16	Hatchback	1
+19	Large Sedan	2
+19	Large Sedan	2
+18	Large Sedan	2
+18	Large Sedan	2
+18	Large Sedan	2
+18	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+17	Large Sedan	2
+16	Large Sedan	2
+16	Large Sedan	2
+16	Large Sedan	2
+16	Large Sedan	2
+16	Large Sedan	2
+16	Large Sedan	2
+16	Large Sedan	2
+16	Large Sedan	2
+15	Large Sedan	2
+15	Large Sedan	2
+13	Large Sedan	2
+13	Large Sedan	2

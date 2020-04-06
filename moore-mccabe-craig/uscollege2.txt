@@ -1,0 +1,5 @@
+Gender	Status	Count
+Male	FullTime	2719
+Female	FullTime	2991
+Male	PartTime	535
+Female	PartTime	680

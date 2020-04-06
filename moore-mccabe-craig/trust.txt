@@ -1,0 +1,5 @@
+TrustEssential	Gender	Count
+Agree	Male	11724
+Agree	Female	14169
+Disagree	Male	1163
+Disagree	Female	746

@@ -1,0 +1,10 @@
+Education	Pet	Count
+LessThanHS	None	421
+LessThanHS	Dog	93
+LessThanHS	Cat	28
+HighSchool	None	666
+HighSchool	Dog	100
+HighSchool	Cat	40
+PostSecondary	None	845
+PostSecondary	Dog	135
+PostSecondary	Cat	99

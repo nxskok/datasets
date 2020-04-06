@@ -1,0 +1,183 @@
+Country	Code	InternetUsers	LifeExpectancy
+Albania	ALB	15	76.34
+Algeria	DZA	7	71.99
+Angola	AGO	1	42.36
+Argentina	ARG	21	75.03
+Armenia	ARM	6	71.60
+Australia	AUS	51	81.00
+Austria	AUT	51	79.84
+Azerbaijan	AZE	10	72.33
+Bahamas	BHS	34	72.91
+Bahrain	BHR	28	75.66
+Bangladesh	BGD	0	63.66
+Barbados	BRB	85	76.77
+Belarus	BLR	56	68.59
+Belgium	BEL	46	79.48
+Belize	BLZ	10	71.90
+Benin	BEN	1	56.20
+Bermuda	BMU	71	78.58
+Bhutan	BTN	5	65.26
+Bolivia	BOL	6	65.18
+Bosnia and Herzegovina	BIH	25	74.57
+Botswana	BWA	4	49.78
+Brazil	BRA	23	72.08
+Brunei Darussalam	BRN	42	77.13
+Bulgaria	BGR	47	72.61
+Burkina Faso	BFA	1	51.87
+Burundi	BDI	1	49.05
+Cambodia	KHM	0	58.93
+Cameroon	CMR	2	50.28
+Canada	CAN	77	80.36
+Cape Verde	CPV	6	71.00
+Central African Republic	CAF	0	44.38
+Chad	TCD	1	50.60
+Channel Islands	CHI	0	78.85
+Chile	CHL	25	78.29
+China	CHN	10	72.00
+Colombia	COL	15	72.59
+Comoros	COM	3	63.24
+"Congo, Dem. Rep."	ZAR	0	46.12
+"Congo, Rep."	COG	2	54.79
+Costa Rica	CRI	28	78.66
+Cote d'Ivoire	CIV	2	48.08
+Croatia	HRV	38	75.82
+Cuba	CUB	2	78.04
+Cyprus	CYP	46	79.29
+Czech Republic	CZE	34	76.48
+Denmark	DNK	58	78.10
+Djibouti	DJI	1	54.48
+Dominican Republic	DOM	15	72.03
+Ecuador	ECU	12	74.83
+Egypt	EGY	8	71.01
+El Salvador	SLV	10	71.54
+Equatorial Guinea	GNQ	2	51.10
+Eritrea	ERI	2	57.31
+Estonia	EST	54	72.57
+Ethiopia	ETH	0	52.48
+Faeroe Islands	FRO	70	78.84
+Fiji	FJI	10	68.59
+Finland	FIN	56	79.23
+France	FRA	49	80.56
+French Polynesia	PYF	25	73.97
+Gabon	GAB	6	56.74
+Gambia	GMB	5	59.15
+Georgia	GEO	7	70.72
+Germany	DEU	47	79.13
+Ghana	GHA	3	59.70
+Greece	GRC	18	79.41
+Guatemala	GTM	10	69.91
+Guinea	GIN	1	55.52
+Guinea-Bissau	GNB	2	46.19
+Guyana	GUY	24	66.28
+Haiti	HTI	7	60.32
+Honduras	HND	5	69.89
+Hungary	HUN	35	73.09
+Iceland	ISL	64	81.17
+India	IND	11	64.47
+Indonesia	IDN	5	68.16
+Iran	IRN	26	70.65
+Ireland	IRL	34	79.39
+Israel	ISR	27	80.02
+Italy	ITA	52	81.08
+Jamaica	JAM	49	71.12
+Japan	JPN	69	82.32
+Jordan	JOR	14	72.20
+Kazakhstan	KAZ	8	66.16
+Kenya	KEN	8	53.44
+"Korea, Dem. Rep."	PRK	0	66.97
+"Korea, Rep."	KOR	70	78.50
+Kuwait	KWT	31	77.66
+Kyrgyz Republic	KGZ	13	67.70
+Lao PDR	LAO	1	63.86
+Latvia	LVA	47	70.86
+Lebanon	LBN	23	71.78
+Lesotho	LSO	3	42.93
+Liberia	LBR	0	45.27
+Libya	LBY	4	73.98
+Lithuania	LTU	32	71.04
+Luxembourg	LUX	72	79.18
+Macedonia	MKD	13	73.99
+Madagascar	MDG	1	58.99
+Malawi	MWI	0	47.61
+Malaysia	MYS	54	74.05
+Maldives	MDV	9	67.92
+Mali	MLI	1	53.78
+Malta	MLT	33	78.55
+Mauritania	MRT	1	63.75
+Mauritius	MUS	26	73.17
+Mexico	MEX	20	74.47
+Micronesia	FSM	14	68.31
+Moldova	MDA	19	68.53
+Mongolia	MNG	12	67.17
+Montenegro	MNE	44	74.42
+Morocco	MAR	20	70.70
+Mozambique	MOZ	1	42.46
+Myanmar	MMR	0	61.65
+Namibia	NAM	4	52.50
+Nepal	NPL	1	63.23
+Netherlands	NLD	86	79.70
+New Caledonia	NCL	34	75.33
+New Zealand	NZL	76	79.93
+Nicaragua	NIC	3	72.48
+Niger	NER	0	56.42
+Nigeria	NGA	6	46.78
+Norway	NOR	81	80.33
+Oman	OMN	11	75.51
+Pakistan	PAK	8	65.21
+Panama	PAN	15	75.40
+Papua New Guinea	PNG	2	57.32
+Paraguay	PRY	4	71.65
+Peru	PER	24	71.12
+Philippines	PHL	6	71.39
+Poland	POL	37	75.14
+Portugal	PRT	30	78.38
+Puerto Rico	PRI	25	78.42
+Qatar	QAT	35	75.50
+Romania	ROM	52	72.18
+Russian Federation	RUS	18	65.56
+Rwanda	RWA	1	45.59
+Samoa	WSM	4	71.33
+San Marino	SMR	54	82.19
+Sao Tome and Principe	STP	14	65.20
+Saudi Arabia	SAU	20	72.58
+Senegal	SEN	5	62.76
+Serbia	SRB	0	72.78
+Seychelles	SYC	34	72.22
+Sierra Leone	SLE	0	42.24
+Singapore	SGP	59	79.85
+Slovak Republic	SVK	42	74.20
+Slovenia	SVN	62	77.67
+Solomon Islands	SLB	2	63.33
+Somalia	SOM	1	47.69
+South Africa	ZAF	8	50.71
+Spain	ESP	42	80.80
+Sri Lanka	LKA	3	74.97
+St. Lucia	LCA	60	74.39
+St. Vincent and the Grenadines	VCT	29	71.38
+Sudan	SDN	8	58.11
+Suriname	SUR	8	69.99
+Swaziland	SWZ	4	40.77
+Sweden	SWE	77	80.77
+Switzerland	CHE	58	81.51
+Tanzania	TZA	1	51.89
+Thailand	THA	13	70.24
+Timor-Leste	TMP	0	57.16
+Togo	TGO	5	58.20
+Tonga	TON	3	73.03
+Trinidad and Tobago	TTO	22	69.58
+Turkey	TUR	18	71.49
+Turkmenistan	TKM	1	63.01
+Uganda	UGA	5	50.74
+Ukraine	UKR	19	68.04
+United Arab Emirates	ARE	40	79.32
+United Kingdom	GBR	62	79.14
+United States	USA	70	77.85
+Uruguay	URY	26	75.73
+Uzbekistan	UZB	4	67.50
+"Venezuela, RB"	VEN	15	74.40
+Vietnam	VNM	17	70.85
+Virgin Islands (U.S.)	VIR	28	78.75
+West Bank and Gaza	WBG	7	72.93
+"Yemen, Rep."	YEM	1	62.21
+Zambia	ZMB	4	41.67
+Zimbabwe	ZWE	9	42.69

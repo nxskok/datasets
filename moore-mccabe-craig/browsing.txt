@@ -1,0 +1,5 @@
+Response	Percent
+StronglyAgree	54
+MildlyAgree	22
+MildlyDisagree	16
+StronglyDisagree	8

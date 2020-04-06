@@ -1,0 +1,21 @@
+Country	Percent
+United Kingdom	11.39
+Canada	9.51
+Turkey	3.50
+Australia	3.36
+Colombia	2.69
+Chile	2.46
+France	2.45
+Norway	1.14
+Sweden	1.14
+Mexico	1.01
+Venezuela	1.01
+South Africa	0.97
+Hong Kong	0.91
+Egypt	0.80
+Denmark	0.79
+Spain	0.77
+India	0.77
+Germany	0.70
+Israel	0.61
+Italy	0.57

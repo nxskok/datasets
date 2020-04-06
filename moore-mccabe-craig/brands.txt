@@ -1,0 +1,101 @@
+Brand	Sector	Value
+Coca Cola	Beverages	66667
+IBM	Computer Services	59031
+Microsoft	Computer Services	59007
+GE	Diversified	53086
+NOKIA	Consumer Electronics	35942
+TOYOTA	Automotive	34050
+intel	Computer Hardware	31261
+McDonalds	Restaurants	31049
+Disney	Media	29251
+Google	Internet Services	25590
+Mercedes Benz	Automotive	25577
+HP	Computer Hardware	23509
+BMW	Automotive	23298
+AMERICAN EXPRESS	Personal Care	22689
+American Express	Financial Services	21940
+Louis Vuitton	Luxury	21602
+CISCO	Computer Services	21306
+Marlboro	Tobacco	21300
+Citi	Financial Services	20174
+HONDA	Automotive	19079
+SAMSUNG	Consumer Electronics	17689
+H & M	Apparel	13840
+ORACLE	Computer Software	13831
+Apple	Computer Hardware	13724
+SONY	Consumer Electronics	13583
+PEPSI	Beverages	13249
+HSBC	Financial Services	13143
+NESCAFE	Beverages	13056
+Nike	Sporting Goods	12672
+UPS	Transportation	12621
+SAP	Computer Software	12228
+DELL	Computer Hardware	11695
+Budweiser	Alcohol	11438
+Merrill Lynch	Financial Services	11399
+IKEA	Home Furnishings	10913
+Canon	Computer Hardware	10876
+JPMorgan	Financial Services	10773
+Goldman Saks	Financial Services	10331
+Kellogg's	Food	9710
+Nintendo	Consumer Electronics	8772
+UBS	Financial Services	8740
+Morgan Stanley	Financial Services	8696
+PHILIPS	Diversified	8325
+Thomson Reuters	Media	8313
+GUCCI	Luxury	8254
+ebay	Internet Services	7991
+accenture	Computer Services	7948
+SIEMENS	Diversified	7943
+Ford	Automotive	7896
+HARLEY DAVIDSON	Automotive	7609
+L'OREAL	Personal Care	7508
+MTV	Media	7193
+Volkswagon	Automotive	7047
+AIG	Financial Services	7022
+AXA	Financial Services	7001
+Heinz	Food	6646
+Colgate	Personal Care	6437
+amazon.com	Internet Services	6434
+XEROX	Computer Hardware	6393
+CHANEL	Luxury	6355
+WRIGLEY	Food	6105
+ZARA	Apparel	5955
+Nestle	Food	5592
+KFC	Restaurants	5582
+YAHOO	Internet Services	5496
+DAMONE	Food	5408
+Audi	Automotive	5407
+CATERPILLAR	Diversified	5288
+AVON	Personal Care	5264
+adidas	Sporting Goods	5072
+ROLEX	Luxury	4956
+HYUNDAI	Automotive	4846
+BlackBerry	Consumer Electronics	4802
+Kleenex	Personal Care	4636
+Porsche	Automotive	4603
+HERMES	Luxury	4575
+GAP	Apparel	4357
+Panasonic	Consumer Electronics	4281
+Cartier	Luxury	4236
+TIFFANY & CO	Luxury	4208
+Pizza Hut	Restaurants	4097
+Allianz	Financial Services	4033
+MOET & CHANDON	Alcohol	3951
+bp	Energy	3911
+STARBUCKS COFFEE	Restaurants	3879
+ING	Financial Services	3768
+MOTOROLA	Consumer Electronics	3721
+DURACELL	Consumer Electronics	3682
+Smirnoff	Alcohol	3590
+LEXUS	Automotive	3588
+PRADA	Luxury	3585
+Johnson & Johnson	Personal Care	3582
+Ferrari	Automotive	3527
+GIORGIO ARMANI	Luxury	3526
+Hennessy	Alcohol	3513
+Marriott	Hospitality	3502
+Shell	Energy	3471
+NIVEA	Personal Care	3401
+FedEx	Transportation	3359
+VISA	Financial Services	3338

@@ -1,0 +1,9 @@
+Status	Age	Count
+FullTime	15to19	3553
+PartTime	15to19	329
+FullTime	20to24	5710
+PartTime	20to24	1215
+FullTime	25to34	1825
+PartTime	25to34	1864
+FullTime	35andOver	901
+PartTime	35andOver	1983

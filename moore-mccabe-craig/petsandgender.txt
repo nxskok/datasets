@@ -1,0 +1,7 @@
+Gender	Pet	Count
+Female	None	1024
+Female	Dog	157
+Female	Cat	85
+Male	None	915
+Male	Dog	171
+Male	Cat	82

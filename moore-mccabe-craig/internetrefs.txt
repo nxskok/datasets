@@ -1,0 +1,16 @@
+Domain	Journal	Count
+gov	NEJM	41
+gov	JAMA	103
+gov	Science	111
+org	NEJM	37
+org	JAMA	46
+org	Science	162
+com	NEJM	6
+com	JAMA	17
+com	Science	14
+edu	NEJM	4
+edu	JAMA	8
+edu	Science	47
+other	NEJM	9
+other	JAMA	15
+other	Science	52

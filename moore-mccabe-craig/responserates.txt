@@ -1,0 +1,7 @@
+Response	Size	Count
+Yes	Small	175
+No	Small	125
+Yes	Medium	145
+No	Medium	155
+Yes	Large	120
+No	Large	180

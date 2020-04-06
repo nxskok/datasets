@@ -1,0 +1,9 @@
+Color	NorthAmerica	SouthAmerica	Europe	China	SouthKorea	Japan
+Silver	19	26	28	24	21	27
+White	16	11	4	16	18	24
+Gray	13	14	16	3	19	12
+Black	13	20	24	19	20	16
+Blue	11	8	13	17	9	10
+Red	11	10	6	9	6	3
+Brown	7	7	4	1	6	2
+Other	10	4	5	11	1	6

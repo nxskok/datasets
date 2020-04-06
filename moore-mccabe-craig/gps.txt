@@ -1,0 +1,6 @@
+Company	MarketShare
+Garmin	47
+TomTom	19
+Magellan	17
+Mio	7
+Other	10

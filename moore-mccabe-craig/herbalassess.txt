@@ -1,0 +1,7 @@
+Assessment	Group	Count
+Mild	echinacea	153
+Mild	placebo	170
+Moderate	echinacea	128
+Moderate	placebo	157
+Severe	echinacea	48
+Severe	placebo	40

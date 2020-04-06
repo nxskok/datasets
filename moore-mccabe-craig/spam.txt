@@ -1,0 +1,11 @@
+Botnet	Bots	SpamsPerDay
+Srizbi	315	60
+Bobax	185	9
+Rustock	150	30
+Cutwail	125	16
+Storm	85	3
+Grum	50	2
+Ozdok	35	10
+Nucrypt	20	5
+Wopla	20	0.6
+Spamthru	12	0.35

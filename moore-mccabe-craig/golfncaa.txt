@@ -1,0 +1,7 @@
+Player	Round1	Round2
+Gulyanamitta	80	76
+Hernandez	74	72
+Hoffmeister	76	76
+LeBlanc	76	77
+Mess	85	83
+Sinha	88	83

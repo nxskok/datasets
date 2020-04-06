@@ -1,0 +1,9 @@
+Response	Percent
+MotorolaRazr	23.8
+Symbian	3.9
+Sidekick	4.1
+Plam	6.7
+BlackBerry	13.0
+WindowsMobile	13.9
+ReplacedNothing	10.0
+OtherPhone	24.7

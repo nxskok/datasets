@@ -1,0 +1,49 @@
+Country	Code	InternetUsers	LifeExpectancy
+Albania	ALB	14.86	76.34
+Armenia	ARM	5.74	71.60
+Austria	AUT	50.83	79.84
+Azerbaijan	AZE	9.77	72.33
+Belarus	BLR	56.28	68.59
+Belgium	BEL	46.45	79.48
+Bosnia and Herzegovina	BIH	25.15	74.57
+Bulgaria	BGR	46.64	72.61
+Croatia	HRV	37.93	75.82
+Cyprus	CYP	46.16	79.29
+Czech Republic	CZE	34.48	76.48
+Denmark	DNK	58.34	78.10
+Estonia	EST	54.33	72.57
+Faeroe Islands	FRO	70.39	78.84
+Finland	FIN	55.55	79.23
+France	FRA	49.06	80.56
+Georgia	GEO	7.49	70.72
+Germany	DEU	46.86	79.13
+Greece	GRC	18.37	79.41
+Hungary	HUN	34.75	73.09
+Iceland	ISL	63.86	81.17
+Ireland	IRL	33.82	79.39
+Italy	ITA	52.19	81.08
+Kazakhstan	KAZ	8.43	66.16
+Kyrgyz Republic	KGZ	12.52	67.70
+Latvia	LVA	46.80	70.86
+Lithuania	LTU	31.91	71.04
+Luxembourg	LUX	72.46	79.18
+"Macedonia, FYR"	MKD	13.16	73.99
+Moldova	MDA	18.99	68.53
+Montenegro	MNE	44.26	74.42
+Netherlands	NLD	85.65	79.70
+Norway	NOR	81.36	80.33
+Poland	POL	36.94	75.14
+Portugal	PRT	30.14	78.38
+Romania	ROM	52.34	72.18
+Russian Federation	RUS	18.03	65.56
+San Marino	SMR	53.85	82.19
+Slovak Republic	SVK	41.84	74.20
+Slovenia	SVN	62.32	77.67
+Spain	ESP	42.11	80.80
+Sweden	SWE	76.88	80.77
+Switzerland	CHE	58.26	81.51
+Turkey	TUR	18.02	71.49
+Turkmenistan	TKM	1.32	63.01
+Ukraine	UKR	19.24	68.04
+United Kingdom	GBR	62.38	79.14
+Uzbekistan	UZB	4.15	67.50

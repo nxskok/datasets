@@ -1,0 +1,9 @@
+Major	Gender	Count
+Accounting	Female	68
+Accounting	Male	56
+Administration	Female	91
+Administration	Male	40
+Economics	Female	5
+Economics	Male	6
+Finance	Female	61
+Finance	Male	59

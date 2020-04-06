@@ -1,0 +1,9 @@
+Age	Status	Count
+15To19	FullTime	3388
+15To19	PartTime	389
+10To24	FullTime	5238
+10To24	PartTime	1164
+25To34	FullTime	1703
+25To34	PartTime	1699
+35AndOver	FullTime	762
+35AndOver	PartTime	2045

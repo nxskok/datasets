@@ -1,0 +1,10 @@
+Region	Field	Count
+United States	Engineering	61941
+WesternEurope	Engineering	158931
+Asia	Engineering	280772
+United States	NaturalScience	111158
+WesternEurope	NaturalScience	140126
+Asia	NaturalScience	242879
+United States	SocialScience	182166
+WesternEurope	SocialScience	116353
+Asia	SocialScience	236018

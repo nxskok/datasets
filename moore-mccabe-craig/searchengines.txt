@@ -1,0 +1,8 @@
+SearchEngine	Percent
+Google	79.9
+Yahoo	11.3
+MSN	3.4
+AOL	2.4
+Microsoft	1.6
+Ask	1.2
+Other	0.2

@@ -1,0 +1,5 @@
+Exclusive	Success	Count	Exclusive1
+Yes	Yes	108	1
+No	Yes	15	0
+Yes	No	34	1
+No	No	13	0

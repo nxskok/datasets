@@ -1,0 +1,5 @@
+EnoughSleep	Exercise	Count
+Yes	High	151
+Yes	Low	115
+No	High	148
+No	Low	242

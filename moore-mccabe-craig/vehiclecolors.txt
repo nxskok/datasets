@@ -1,0 +1,10 @@
+Color	LuxuryPercent	IntermediatePercent
+Black	22	10
+Silver	16	25
+WhitePearl	14	4
+Gray	12	12
+White	11	8
+Blue	7	13
+Red	7	10
+YellowGold	6	4
+Other	5	14

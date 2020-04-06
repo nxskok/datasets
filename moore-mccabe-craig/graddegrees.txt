@@ -1,0 +1,10 @@
+Degree	PercentFemale
+MBusAdmin	39.8
+MEd	76.2
+MArts	59.6
+MSci	53.0
+DocEd	70.8
+OtherPhD	54.2
+MD	44.0
+Law	50.2
+Theology	20.2
